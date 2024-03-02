@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Сайт-визитка DLP-фемели </title>
+    </head>
+    <body style='background-image: url("https://drive.google.com/uc?export=view&id=1KTodwYw1d6RCDTahrhaDdZKfJVCpEPKd")'>
+        <header>
+            <h1 style=" text-align: center; color: white;"> Длп-Фемели </h1>
+        </header>
+        <main style="font-style: Arial; color: white; font-size: 20px"> 
+            <table style="width: 100%;margin: 0 auto;">
+            <tr>
+                <td> <div style="margin-left:15px; width: 600px;">
+                    <img src="https://drive.google.com/uc?export=view&id=1UzpG17yb7gh-qo1s90QaVd0bth3issOf"width="400" height="480px"/>
+                </div>
+                </td>
+                <td style="padding:15px"> Длп-фемели - это большая КД семья, состоящая из двух команд 
+                    <ul style="line-height: 1.5">
+                        <li><a style="color:white" href = "https://t.me/djinlikerpivo/3495">DLP</a></li>
+                        <li><a style="color:white" href = "https://t.me/ravens_cdt/25?single">Ravens</a></li>
+                    </ul>
+                    <p>Нас здесь 14 человек, мы очень весёлые и с нами не соскучишься.</p>
+
+                    Мы за любой жвиж: выступление на дне города - без проблем, станцевать на городском мероприятии - когда и где, конкурсы - страшно, но погнали....
+                </td>
+            </tr>
+            </table> 
+            
+            <h1 style="text-align:center"> Кто есть кто в семье?</h1>
+            <p style="margin-left: 30px;"> О, ты ещё тут...</p>
+            <p style="margin-left: 30px;">Присаживайся по удобнее, будем знакомится чуть ближе...</p>
+            <table style="width: 100%; margin-left:30px">
+            <tr>
+                <td style="margin: 0 auto; width: 600px;;">В нашей семье главные -  родители, Seny (Ксюша) и Noel(Даша). Также остальная и большая часть - это дети или щенята, кому как удобнее.
+                    <p> Среди детей присутствует деление - на дочерей отца(Ксюши) и дочерей матери(Даши), но есть одна общая дочь, Алина, и щенок, Яночка.</p>
+                    Самые старшие из дочерей - Юля и Полина, дальше идут с Ксюшиной стороны близняшки, Вика и Лена, а с Дашиной двойняшки, Алёна и Соня, макнэ сторон, Тори и Элина. Также у нас есть Нари и Лиён, но кто к каой стороне относится, я не знаю. 
+                    <p> Ах, да... у нас ещё есть родственники - тётя из Пусана, тётя из Москвы и крёстный папа.</p>
+                </td>
+                <td> <div style="padding-left: 250px">
+                    <img src="https://drive.google.com/uc?export=view&id=1ucauzxyKDMmqPeDLvCZJE6ihAUW5QVSX"width="400px" height="480px"/>
+                </div>
+                </td>
+            </tr>
+            </table>
+            <h1 style="text-align:center"> Наши проекты...</h1>
+            <table style="padding: 50px">
+                <tr>
+                    <td><ul style="line-height: 2.5">
+                    <li><a style="color:white" href = "https://youtu.be/zLD7kAH4DuU?si=G_0_oQoQR7qr85RS">День гороода | DLP - Bite me(ENHYPEN) </a></li>
+                    <li><a style="color:white" href = "https://youtu.be/A0K0KagVnCE?si=JjYz-6ghYvEu1v4x">Кимчхи | DLP - Fiace(Mino)</a></li>
+                    <li><a style="color:white" href = "https://youtu.be/xG-dHb02Mps?si=cutSEt979Cd0xn8z">Asia Zone: Halloween | DLP - Fiace(Mino)</a></li></td>
+                    </ul>
+                    <td><div style="padding-left: 350px">
+                        <img src="https://drive.google.com/uc?export=view&id=10USIUvAXDNnrOTShpiAAsC8b208rFVa4"width="400px" height="480px"/>
+                    </div> </td>
+            </tr>
+            </table>
+        </main>
+        <footer style="color: rgb(103, 123, 203); background-color: dimgray;"> 
+            <table style="width: 100%"> 
+                <tr>
+                    <td> Контакты</td>
+                    <td> Преданные фанаты </td>
+                </tr>
+                <tr>
+                    <td><a style="color:rgb(103, 123, 203)" href = "https://t.me/djinlikerpivo">DLP</a></td>
+                    <td> <a style="color:rgb(103, 123, 203)" href = "https://t.me/murphynamefe">muRPhy</a></td>
+                </tr>
+                <tr>
+                    <td> <a style="color:rgb(103, 123, 203)" href = "https://t.me/ravens_cdt">Ravens</a></td>
+                    <td><a style="color:rgb(103, 123, 203)" href = "https://t.me/snnllku">taori</a> </td>
+                </tr>
+            </table>     
+        </footer>
+    </body>
+</html>
